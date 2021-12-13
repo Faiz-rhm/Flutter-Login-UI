@@ -1,6 +1,21 @@
 # flutter_signin_signup
 
-A new Flutter project.
+A sample app to showcase signin-signup UI demo using clippers in flutter.
+
+
+## Screenshots
+
+| Login  | Register |
+| ------------- | ------------- |
+|     ![signin](https://user-images.githubusercontent.com/14290499/145809363-89329640-2abf-4f5b-8277-e98b64174a68.png) |      ![signup](https://user-images.githubusercontent.com/14290499/145809408-1c695e30-ecb3-4e02-96d3-de6f77d5f41a.png)|
+     
+     
+## Pull Requests
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
+
+
+## Created & Maintained By
+Faiz Rhm 
 
 ## Getting Started
 
